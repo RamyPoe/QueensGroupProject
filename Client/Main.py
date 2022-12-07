@@ -1,3 +1,11 @@
+#========================================================
+    
+# DEFUALT ACCOUNT PASSWORDS ON SERVER ARE: 'abc123'
+
+#========================================================
+
+
+
 import window
 import login
 import fail_window
