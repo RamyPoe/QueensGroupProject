@@ -114,7 +114,7 @@ class Network:
         match (response):
             case protocol.LOGIN_FAIL:
                 print("[LOGIN] Failed!")
-                response
+                
 
             case protocol.LOGIN_SUCCESS:
                 print("[LOGIN] Successfull!")
