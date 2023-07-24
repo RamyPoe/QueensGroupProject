@@ -4,11 +4,12 @@ ___
 
 ## Project Screen Shots
 
-![ALT](https://i.ibb.co/XCCC7J4/2.png)
-![ALT](https://i.ibb.co/9NpYMQ3/3.png)
-![ALT](https://i.ibb.co/yddL6dh/4.png)
-![ALT](https://i.ibb.co/fXbkwf8/5.png)
-![ALT](https://i.ibb.co/6X8ZfBH/6.png)
+![ALT](https://github.com/RamyPoe/QueensGroupProject/blob/main/images/1.png?raw=true)
+![ALT](https://github.com/RamyPoe/QueensGroupProject/blob/main/images/2.png?raw=true)
+![ALT](https://github.com/RamyPoe/QueensGroupProject/blob/main/images/3.png?raw=true)
+![ALT](https://github.com/RamyPoe/QueensGroupProject/blob/main/images/4.png?raw=true)
+![ALT](https://github.com/RamyPoe/QueensGroupProject/blob/main/images/5.png?raw=true)
+![ALT](https://github.com/RamyPoe/QueensGroupProject/blob/main/images/6.png?raw=true)
 
 
 ## Installation and Setup Instructions
