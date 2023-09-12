@@ -1,4 +1,4 @@
-#### Health Dashboard meant for patients to keep record of their Healthcare. Built using Cryptographically secure Server Client Model. Created with a team for Queens Summer Computing Challenge; Won 3rd place.
+#### Health Dashboard meant for patients to keep record of their Healthcare. Built using Cryptographically secure Server Client Model using RSA. Created with a team for Queens Summer Computing Challenge; Won 3rd place.
 
 ___
 
